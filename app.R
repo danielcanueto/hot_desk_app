@@ -138,7 +138,7 @@ ui <- fluidPage(
                           "The estimation is based on a Poisson binomial distribution and is performed using ",
                           a(href = 'https://cran.r-project.org/web/packages/poisbinom/index.html', 'poisbinom'),
                           " package. More details about how Poission binomial distribution can be used to estimate the number of necessary hot desks is on this ",
-                          a(href = 'https://stackoverflow.com/', 'link'),
+                          a(href = 'https://medium.com/@danielcanueto/a-worker-in-every-hot-desk-a74efe47eff0', 'link'),
                           '.'
                       )
                   ))))
